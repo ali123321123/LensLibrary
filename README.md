@@ -39,7 +39,7 @@ rn=1,cm-,qp=3,cm=2,qp-,pc=4,ot=9,ab=5,pc-,pc=6,ot=7
 
 **Task:**
 Run the HASH algorithm on each step and sum the results.  
-*Your puzzle answer was 498538.*
+
 
 ---
 
@@ -64,7 +64,7 @@ Run the HASH algorithm on each step and sum the results.
 
 **Task:**
 Calculate the focusing power of the resulting lens configuration.  
-*Your puzzle answer was 286278.*
+
 
 
 
