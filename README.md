@@ -1,20 +1,10 @@
 # LensLibrary
 
 **Advent of Code**  
-- [About](#)
-- [Events](#)
-- [Shop](#)
-- [Settings](#)
-- [Log Out](#)
 
-*Contributor: MHD Ali Zedan 30⭐*
+*Contributor: MHD Ali Zedan ⭐
 
 ### Current Year: 2023
-- [Calendar](#)
-- [AoC++](#)
-- [Sponsors](#)
-- [Leaderboard](#)
-- [Stats](#)
 
 **Our sponsors help make Advent of Code possible:**
 - Ximedes - Software for payments and public transport across the world
