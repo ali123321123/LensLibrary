@@ -1,0 +1,14 @@
+C:\testutvikling\LensLibrary2\LensLibrary2\bin\Debug\net7.0\LensLibrary2.exe
+C:\testutvikling\LensLibrary2\LensLibrary2\bin\Debug\net7.0\LensLibrary2.deps.json
+C:\testutvikling\LensLibrary2\LensLibrary2\bin\Debug\net7.0\LensLibrary2.runtimeconfig.json
+C:\testutvikling\LensLibrary2\LensLibrary2\bin\Debug\net7.0\LensLibrary2.dll
+C:\testutvikling\LensLibrary2\LensLibrary2\bin\Debug\net7.0\LensLibrary2.pdb
+C:\testutvikling\LensLibrary2\LensLibrary2\obj\Debug\net7.0\LensLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\testutvikling\LensLibrary2\LensLibrary2\obj\Debug\net7.0\LensLibrary2.AssemblyInfoInputs.cache
+C:\testutvikling\LensLibrary2\LensLibrary2\obj\Debug\net7.0\LensLibrary2.AssemblyInfo.cs
+C:\testutvikling\LensLibrary2\LensLibrary2\obj\Debug\net7.0\LensLibrary2.csproj.CoreCompileInputs.cache
+C:\testutvikling\LensLibrary2\LensLibrary2\obj\Debug\net7.0\LensLibrary2.dll
+C:\testutvikling\LensLibrary2\LensLibrary2\obj\Debug\net7.0\refint\LensLibrary2.dll
+C:\testutvikling\LensLibrary2\LensLibrary2\obj\Debug\net7.0\LensLibrary2.pdb
+C:\testutvikling\LensLibrary2\LensLibrary2\obj\Debug\net7.0\LensLibrary2.genruntimeconfig.cache
+C:\testutvikling\LensLibrary2\LensLibrary2\obj\Debug\net7.0\ref\LensLibrary2.dll
