@@ -6,9 +6,6 @@
 
 ### Current Year: 2023
 
-**Our sponsors help make Advent of Code possible:**
-- Ximedes - Software for payments and public transport across the world
-
 ---
 
 ## Day 15: Lens Library
