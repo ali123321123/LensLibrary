@@ -68,8 +68,3 @@ Calculate the focusing power of the resulting lens configuration.
 
 
 
----
-
-*Return to your Advent calendar or try another puzzle.*
-
-
