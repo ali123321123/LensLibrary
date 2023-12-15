@@ -69,11 +69,10 @@ Run the HASH algorithm on each step and sum the results.
 Calculate the focusing power of the resulting lens configuration.  
 *Your puzzle answer was 286278.*
 
-**Completion:**
-Both parts of this puzzle are complete! They provide two gold stars: ⭐⭐
+
 
 ---
 
 *Return to your Advent calendar or try another puzzle.*
 
-[Share this puzzle](#)
+
